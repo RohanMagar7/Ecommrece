@@ -1,0 +1,29 @@
+{
+  "name": "instand-store",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@headlessui/react": "^1.7.17",
+    "@heroicons/react": "^2.0.18",
+    "@mui/icons-material": "^5.14.6",
+    "@mui/material": "^5.14.6",
+    "autoprefixer": "10.4.15",
+    "eslint": "8.47.0",
+    "eslint-config-next": "13.4.19",
+    "next": "13.4.19",
+    "postcss": "8.4.28",
+    "react": "18.2.0",
+    "react-alice-carousel": "^2.7.1",
+    "react-dom": "18.2.0",
+    "react-router-dom": "^6.15.0",
+    "tailwindcss": "3.3.3"
+  }
+}
